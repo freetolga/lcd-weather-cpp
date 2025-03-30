@@ -1,0 +1,12 @@
+[submodule "deps/curl"]
+	path = deps/curl
+	url = https://github.com/curl/curl
+[submodule "deps/wolfssl"]
+	path = deps/wolfssl
+	url = https://github.com/wolfSSL/wolfssl
+[submodule "deps/glaze"]
+	path = deps/glaze
+	url = https://github.com/stephenberry/glaze
+[submodule "deps/abseil-cpp"]
+	path = deps/abseil-cpp
+	url = https://github.com/abseil/abseil-cpp
